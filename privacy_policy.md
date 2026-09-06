@@ -4,30 +4,30 @@
 
 ## Overview
 
-AwardSeason is a personal, independently developed Oscar-history tracking app. It is designed to work entirely on your device, with no user accounts and no data collection by the developer.
+AwardSeason is a personal, independently developed Oscar-history tracking app. It is designed to work entirely on your device with no user accounts and no data collection by the developer.
 
-AwardSeason is not affiliated with, endorsed by, or sponsored by the Academy of Motion Picture Arts and Sciences (AMPAS). "Oscar," "Academy Award," and related marks are trademarks of AMPAS. All ceremony, nomination, and award data referenced in this app reflects publicly available historical information about the Academy Awards.
+AwardSeason is not affiliated with, endorsed by or sponsored by the Academy of Motion Picture Arts and Sciences (AMPAS). "Oscar", "Academy Award" and related marks are trademarks of AMPAS. All ceremony, nomination and award data referenced in this app reflects publicly available historical information about the Academy Awards.
 
 ## Data We Collect
 
 **We do not collect, store, or transmit any personal data.**
 
-AwardSeason does not require you to create an account, sign in, or provide any personal information to use the app.
+AwardSeason does not require you to create an account, sign in or provide any personal information to use the app.
 
 ## Data Stored on Your Device
 
-The following information is stored locally on your device only, using Apple's standard `UserDefaults` storage:
+The following information is stored locally on your device only using Apple's standard `UserDefaults` storage:
 
 - Which films you've marked as "watched"
 - Your recent search history within the app
 - Your chosen display name (optional, editable in Profile settings)
 - App settings preferences (e.g. display and notification toggle states)
 
-This data never leaves your device. It is not backed up to any server we control, not shared with any third party, and not accessible to us in any way. If you delete the app, this data is permanently deleted along with it.
+This data never leaves your device. It is not backed up to any server we control, not shared with any third party and is not accessible to us in any way. If you delete the app, this data is permanently deleted along with it.
 
 ## Third-Party Services
 
-AwardSeason uses **The Movie Database (TMDb) API** to retrieve film posters, cast photos, biographies, and related metadata for display within the app.
+AwardSeason uses **The Movie Database (TMDb) API** to retrieve film posters, cast photos, biographies and related metadata for display within the app.
 
 - When you view a film or person's detail page, the app sends a request to TMDb's servers to fetch that content (e.g. a poster image or actor photo).
 - These requests include only the information necessary to retrieve the relevant content (such as a film title and year) — no personal or identifying information about you is sent.
