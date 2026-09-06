@@ -45,4 +45,4 @@ If AwardSeason's data practices change in the future (for example, if account fe
 
 ## Contact
 
-If you have questions about this privacy policy, you can reach the developer at: sararosaandree@gmail.com
+If you have questions about this privacy policy, you can reach the developer at: support@awardseason.app
