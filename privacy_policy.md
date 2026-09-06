@@ -4,7 +4,9 @@
 
 ## Overview
 
-AwardSeason is a personal Oscar-history tracking app. It is designed to work entirely on your device, with no user accounts and no data collection by the developer.
+AwardSeason is a personal, independently developed Oscar-history tracking app. It is designed to work entirely on your device, with no user accounts and no data collection by the developer.
+
+AwardSeason is not affiliated with, endorsed by, or sponsored by the Academy of Motion Picture Arts and Sciences (AMPAS). "Oscar," "Academy Award," and related marks are trademarks of AMPAS. All ceremony, nomination, and award data referenced in this app reflects publicly available historical information about the Academy Awards.
 
 ## Data We Collect
 
